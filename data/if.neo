@@ -1,0 +1,6 @@
+VAR I = 10
+IF I == 1 THEN 
+PRINT["HI"]
+ELSE 
+PRINT["BYE"]
+END

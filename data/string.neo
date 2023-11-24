@@ -1,0 +1,3 @@
+VAR str1 = "Hello"
+VAR str2 = "World!"
+PRINT[str1 & str2]

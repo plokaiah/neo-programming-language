@@ -1,0 +1,9 @@
+FUN compute[num]
+    VAR res = num
+    FOR i = 0 TO 3 THEN 
+    VAR res = res & i
+    PRINT[res]
+    END
+    RETURN res
+END
+compute[9]
